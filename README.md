@@ -1,21 +1,24 @@
 # Hi, I'm Isha Singh 👋
 
 **Data Scientist @ Bose | MS in Data Science, Northeastern University (Dec 2025)**  
-📍 United States  
 
 ---
 
 ## About Me
-I recently completed my **Master’s in Data Science** from Northeastern University and am currently working as a **Data Scientist at Bose**. I am passionate about **machine learning, NLP, and generative AI**, and enjoy turning complex data into actionable insights.  
+I recently completed my **Master’s in Data Science** from Northeastern University and am currently working as a **Data Scientist at Bose**. I am passionate about **Machine Learning, NLP, and Generative AI**, and enjoy turning complex data into actionable insights.  
 
-I have experience building **LLM pipelines, predictive models, and dashboards**, and I love solving real-world business and healthcare problems with data. I am collaborative, curious, and always exploring new technologies in AI and data science.  
+I have experience in **building, deploying, and monitoring ML models (MLOps)**, operationalizing LLM pipelines, predictive and forecasting models, and interactive dashboards. I thrive on solving real-world business problems with data, and I’m always exploring new AI technologies to improve production workflows.  
 
 ---
 
 ## Projects
-- **LLM Sentiment & Classification Pipeline** – Analyzed 10K+ weekly product reviews with multi-label classification.  
+- **Gen-AI Assistants for Enterprise Knowledge** – Developed AI assistants for HR and Engineering knowledge retrieval using RAG and LLMs, enabling employees to access internal knowledge efficiently and accurately.  
+- **LLM Sentiment & Classification Pipeline** – Analyzed 10K+ weekly product reviews with multi-label classification.
 - **Hospital Capacity Prediction Tool** – Forecasted staff & resource needs 30 days ahead with 92% accuracy.  
 - **Stock Price Prediction** – Led a team predicting stock movements using StockTwits & Yahoo Finance data.  
+- **AI Analytics Platform** – Built a platform to convert unstructured customer feedback into executive-ready metrics, dashboards, and insights.  
+- **AI Travel Assistant** – Developed a generative AI agent to plan personalized trips using RAG, NLP, and knowledge retrieval from multiple sources.  
+- **Multi-Modal Information Retrieval** – Implemented retrieval pipelines for text, image, and structured data to answer complex queries efficiently.  
 
 ---
 
@@ -35,10 +38,8 @@ I have experience building **LLM pipelines, predictive models, and dashboards**,
 
 ---
 
-## Open to
-Machine Learning, NLP, Data Science & AI roles  
-
----
-
 ## Connect with Me
-[LinkedIn]
+**Open to Full time roles:** Machine Learning, Generative AI, MLOps & Data Science roles  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isha-singh) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singh.isha@northeastern.edu)
+
