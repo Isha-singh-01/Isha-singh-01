@@ -41,5 +41,5 @@ I have experience in **building, deploying, and monitoring ML models (MLOps)**, 
 ## Connect with Me
 **Open to Full time roles:** Machine Learning, Generative AI, MLOps & Data Science roles  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isha-singh) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singh.isha@northeastern.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishasingh07) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singh.isha@northeastern.edu)
 
