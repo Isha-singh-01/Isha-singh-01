@@ -1,5 +1,5 @@
 # Hi, I'm Isha Singh 👋
-**AI/ML Engineer @ Bose | MS in Data Science, Northeastern University (Dec 2025)**  
+**SWE @ Intuit | Prev AI/ML Engineer @ Bose | MS in Data Science, Northeastern University (Dec 2025)**  
 
 ---
 
